@@ -1,2 +1,1 @@
-www.oastify.com
-oastify.com
+*.oastify.com
